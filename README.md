@@ -41,9 +41,7 @@
 #### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZenFill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenFill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenFill&radius=16&theme=high-contrast&area=true&order=5&custom_title=My%20Contribution%20Graph&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
 
 <br/>
