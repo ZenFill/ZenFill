@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Hi there!!!!!! 👋 I am an undergraduate IT student with a strong passion for <b>Web Development</b>. 
+  Hi there!!!!! 👋 I am an undergraduate IT student with a strong passion for <b>Web Development</b>. 
   I'm currently honing my skills in <b>Laravel</b> and <b>Python</b> while exploring new technologies to build efficient and scalable applications.
 </p>
 
