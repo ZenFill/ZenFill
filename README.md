@@ -58,7 +58,7 @@
   <a href="https://discord.com/users/915819646966456362">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/zendry_fillah/">
+  <a href="https://www.instagram.com/al.ways.zen/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
